@@ -1,6 +1,6 @@
 package com.Assigments;
 
-public class AssertionsInJunit {
+public class JunitAssertions {
 	
 	
 	
